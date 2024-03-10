@@ -1,8 +1,9 @@
 # 👨🏻‍💻 Lucas Araújo
-Apaixonado por tecnologia, moro em Mococa-SP, estudante de **Análise e Desenvolvimento de Sistema** na **Fatec Mococa**, focado em Desenvolvimento WEB, e também, cursando o **Santander Bootcamp 2023 - Mobile com Flutter** na [**DIO**](https://web.dio.me)
+Apaixonado por tecnologia e desenvolvimento, moro em Mococa-SP, estudante de **Análise e Desenvolvimento de Sistema** na **Fatec Mococa**, com foco em desenvolvimento WEB, mas, sempre em busca de aprendizado e desafios.
 
 ### 👉🏻 Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-FF0000?style=for-the-badge)](https://web.dio.me/users/luukasriick)
+[![Acesse a ADA](https://img.shields.io/badge/-Acesse%20a%20ADA-91D447?style=for-the-badge)](https://ada.tech/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:lcsaraujo@outlook.com.br)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/lcsaraujo/)
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=FFF)](https://www.github.com/lcsaraujo/)
